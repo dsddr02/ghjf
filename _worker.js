@@ -411,7 +411,4 @@ rules: # 本人自用规则，不一定适合所有人所有客户端，如客�
 - GEOIP,TELEGRAM,🚀 节点选择,no-resolve #TG IP规则
 - GEOSITE,openai,🚀 节点选择 #GPT规则
 - MATCH,漏网之鱼
-`
-}
-`
-}
+
